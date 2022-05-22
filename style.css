@@ -1,0 +1,24 @@
+
+body{
+    background: rgb(102,33,85);
+    background: linear-gradient(233deg, rgba(102,33,85,1) 0%, rgba(158,59,133,1) 0%, rgba(103,142,188,1) 100%);   
+}
+.nav{
+   height: 60px;
+   margin-top:"12px";
+   background-color:rgba(229, 226, 226, 0.3);
+   align-items: center;
+}
+.ml4 {
+  position: relative;
+  font-weight: 900;
+  font-size: 4.5em;
+}
+.ml4 .letters {
+  position: absolute;
+  margin: auto;
+  left: 0;
+  top: 0.3em;
+  right: 0;
+  opacity: 0; 
+}
